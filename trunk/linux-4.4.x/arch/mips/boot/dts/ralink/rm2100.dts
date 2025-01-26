@@ -104,7 +104,7 @@
 
 			partition@1a80000 {
 				label = "Storage";
-				reg = <0x1a80000 0x400000>; /* 4096K */
+				reg = <0x1a80000 0x5000000>; /* 81920K */
 			};
 
 			partition@1e80000 {
